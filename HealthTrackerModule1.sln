@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthTrackerModule1", "HealthTrackerModule1\HealthTrackerModule1.csproj", "{331A41D2-1F60-436E-83C9-DB9F0A689B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331A41D2-1F60-436E-83C9-DB9F0A689B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331A41D2-1F60-436E-83C9-DB9F0A689B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331A41D2-1F60-436E-83C9-DB9F0A689B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331A41D2-1F60-436E-83C9-DB9F0A689B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1EF499-5952-4E60-AA9D-86410B9BEF3D}
+	EndGlobalSection
+EndGlobal
